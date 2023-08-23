@@ -7,7 +7,9 @@ It is a simple mobile application that renders a tooltip with dynamic positionin
 Video Demonstration of App : https://youtu.be/Cwtcsr0rMwI
 
 Developer : Devjyoti Mohanty
+
 Framework Used : SwiftUI
+
 User Interface : IOS
 
 <img width="1470" alt="Screenshot 2023-08-23 at 2 55 17 PM" src="https://github.com/Dev26112001/Tooltip/assets/68328634/3996d08f-cf2f-4f60-aef5-98fcef5e0518">
